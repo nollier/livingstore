@@ -1,0 +1,86 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Numero:</strong>
+  <%= @devi.numero %>
+</p>
+
+
+<p>
+  <strong>Decorateur:</strong>
+  <%= @devi.decorateur %>
+</p>
+
+<p>
+  <strong>Nom:</strong>
+  <%= @devi.nom %>
+</p>
+
+<p>
+  <strong>Prenom:</strong>
+  <%= @devi.prenom %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @devi.email %>
+</p>
+
+<p>
+  <strong>Telephone:</strong>
+  <%= @devi.telephone %>
+</p>
+
+<p>
+  <strong>Adresse:</strong>
+  <%= @devi.adresse %>
+</p>
+
+<%= link_to 'Modifier', edit_devi_path(@devi) %> |
+<%= link_to 'Retour', devis_path %>
+
+<hr>
+
+<h1>Liste des produits</h1>
+
+<table>
+  <tr>
+    <th>Fabricant</th>
+    <th>Name</th>
+    <th>Element</th>
+    <th>Category</th>
+    <th>Revetement</th>
+    <th>Price</th>
+    <th>Height</th>
+    <th>Width</th>
+    <th>Deep</th>
+    <th>Devi</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @devi.produits.each do |produit| %>
+  <% if produit.persisted? %>
+    <tr>
+      <td><%= produit.fabricant %></td>
+      <td><%= produit.name %></td>
+      <td><%= produit.element %></td>
+      <td><%= produit.category %></td>
+      <td><%= produit.revetement %></td>
+      <td><%= produit.price %></td>
+      <td><%= produit.height %></td>
+      <td><%= produit.width %></td>
+      <td><%= produit.deep %></td>
+      <td><%= produit.devi %></td>
+      <td><%= link_to 'Détail', [produit.devi, produit] %></td>
+      <td><%= link_to 'Modifier', edit_devi_produit_path(produit.devi, produit) %></td>
+      <td><%= link_to 'Supprimer', [produit.devi, produit], method: :delete, data: { confirm: 'Dernier mot?' } %></td>
+    </tr>
+  <% end %>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'Ajouter produit', new_devi_produit_path(@devi.id) %>

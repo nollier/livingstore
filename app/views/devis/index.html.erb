@@ -1,0 +1,41 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Devis</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Decorateur</th>
+      <th>Nom</th>
+      <th>Prenom</th>
+      <th>Email</th>
+      <th>Telephone</th>
+      <th>Adresse</th>
+      <th>Numero</th>
+      <th>User</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @devis.each do |devi| %>
+      <tr>
+        <td><%= devi.decorateur %></td>
+        <td><%= devi.nom %></td>
+        <td><%= devi.prenom %></td>
+        <td><%= devi.email %></td>
+        <td><%= devi.telephone %></td>
+        <td><%= devi.adresse %></td>
+        <td><%= devi.numero %></td>
+        <td><%= devi.user_id %></td>
+        <td><%= link_to 'Détail', devi %></td>
+        <td><%= link_to 'Modifier', edit_devi_path(devi) %></td>
+        <td><%= link_to 'Supprimer', devi, method: :delete, data: { confirm: 'Dernier mot?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Nouveau devis', new_devi_path %>
