@@ -1,0 +1,55 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Fabricant:</b>
+  <%= @produit.fabricant %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @produit.name %>
+</p>
+
+<p>
+  <b>Element:</b>
+  <%= @produit.element %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @produit.category %>
+</p>
+
+<p>
+  <b>Revetement:</b>
+  <%= @produit.revetement %>
+</p>
+
+<p>
+  <b>Price:</b>
+  <%= @produit.price %>
+</p>
+
+<p>
+  <b>Height:</b>
+  <%= @produit.height %>
+</p>
+
+<p>
+  <b>Width:</b>
+  <%= @produit.width %>
+</p>
+
+<p>
+  <b>Deep:</b>
+  <%= @produit.deep %>
+</p>
+
+<p>
+  <b>Devi:</b>
+  <%= @produit.devi %>
+</p>
+
+
+<%= link_to 'Edit', edit_devi_produit_path(@produit.devi, @produit) %> |
+<%= link_to 'Back', devi_produits_path(@produit.devi) %>
