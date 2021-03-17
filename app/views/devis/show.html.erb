@@ -1,5 +1,7 @@
 <p id="notice"><%= notice %></p>
 
+<h2>Coordonnées clients :</h2>
+
 <p>
   <strong>Numero:</strong>
   <%= @devi.numero %>
@@ -41,7 +43,7 @@
 
 <hr>
 
-<h1>Liste des produits</h1>
+<h2>Détails devis <%= @devi.numero %> :</h2>
 
 <table>
   <tr>
@@ -72,7 +74,6 @@
       <td><%= produit.height %></td>
       <td><%= produit.width %></td>
       <td><%= produit.deep %></td>
-      <td><%= produit.devi %></td>
       <td><%= link_to 'Détail', [produit.devi, produit] %></td>
       <td><%= link_to 'Modifier', edit_devi_produit_path(produit.devi, produit) %></td>
       <td><%= link_to 'Supprimer', [produit.devi, produit], method: :delete, data: { confirm: 'Dernier mot?' } %></td>

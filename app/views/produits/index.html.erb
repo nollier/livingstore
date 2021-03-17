@@ -1,4 +1,4 @@
-<h1>Listing produits</h1>
+<h1>Liste des produits du devis <%= @devi.nom %> - <%= @devi.numero %> </h1>
 
 <table>
   <tr>
@@ -28,14 +28,14 @@
     <td><%= produit.height %></td>
     <td><%= produit.width %></td>
     <td><%= produit.deep %></td>
-    <td><%= produit.devi %></td>
-    <td><%= link_to 'Show', [produit.devi, produit] %></td>
-    <td><%= link_to 'Edit', edit_devi_produit_path(produit.devi, produit) %></td>
-    <td><%= link_to 'Destroy', [produit.devi, produit], method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <td><%= link_to 'Détail', [produit.devi, produit] %></td>
+    <td><%= link_to 'Modifier', edit_devi_produit_path(produit.devi, produit) %></td>
+    <td><%= link_to 'Supprimer', [produit.devi, produit], method: :delete, data: { confirm: 'Dernier mot?' } %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New Produit', new_devi_produit_path(params[:devi_id]) %>
+<%= link_to 'Nouveau produit', new_devi_produit_path(params[:devi_id]) %>
+<%= link_to 'Retour', devi_path(params[:devi_id]) %>
