@@ -1,5 +1,7 @@
 <p id="notice"><%= notice %></p>
 
+<h2>Infos clients :</h2>
+
 <p>
   <strong>Numero:</strong>
   <%= @devi.numero %>
@@ -41,7 +43,7 @@
 
 <hr>
 
-<h1>Liste des produits</h1>
+<h2>Liste des produits</h2>
 
 <table>
   <tr>
@@ -50,16 +52,16 @@
     <th>Element</th>
     <th>Category</th>
     <th>Revetement</th>
-    <th>Price</th>
-    <th>Height</th>
-    <th>Width</th>
-    <th>Deep</th>
-    <th>Devi</th>
+    <th>Prix</th>
+    <th>Largeur</th>
+    <th>Hauteur</th>
+    <th>Profondeur</th>
     <th></th>
     <th></th>
     <th></th>
   </tr>
 
+<% total = 0 %>
 <% @devi.produits.each do |produit| %>
   <% if produit.persisted? %>
     <tr>
@@ -67,12 +69,12 @@
       <td><%= produit.name %></td>
       <td><%= produit.element %></td>
       <td><%= produit.category %></td>
-      <td><%= produit.revetement %></td>
-      <td><%= produit.price %></td>
-      <td><%= produit.height %></td>
+      <td><%= produit.revetement.capitalize %></td>
+      <td><%= produit.price %> €</td>
+      <% total += produit.price.to_i %>
       <td><%= produit.width %></td>
+      <td><%= produit.height %></td>
       <td><%= produit.deep %></td>
-      <td><%= produit.devi %></td>
       <td><%= link_to 'Détail', [produit.devi, produit] %></td>
       <td><%= link_to 'Modifier', edit_devi_produit_path(produit.devi, produit) %></td>
       <td><%= link_to 'Supprimer', [produit.devi, produit], method: :delete, data: { confirm: 'Dernier mot?' } %></td>
@@ -80,6 +82,8 @@
   <% end %>
 <% end %>
 </table>
+
+<p> <strong> Total : <%= total %>€ </strong></p>
 
 <br />
 

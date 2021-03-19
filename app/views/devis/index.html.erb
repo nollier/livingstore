@@ -12,7 +12,6 @@
       <th>Telephone</th>
       <th>Adresse</th>
       <th>Numero</th>
-      <th>User</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -27,7 +26,6 @@
         <td><%= devi.telephone %></td>
         <td><%= devi.adresse %></td>
         <td><%= devi.numero %></td>
-        <td><%= devi.user_id %></td>
         <td><%= link_to 'Détail', devi %></td>
         <td><%= link_to 'Modifier', edit_devi_path(devi) %></td>
         <td><%= link_to 'Supprimer', devi, method: :delete, data: { confirm: 'Dernier mot?' } %></td>
