@@ -1,4 +1,4 @@
-<h1>Listing produits</h1>
+<h1>Liste des produits</h1>
 
 <table>
   <tr>
@@ -7,11 +7,10 @@
     <th>Element</th>
     <th>Category</th>
     <th>Revetement</th>
-    <th>Price</th>
-    <th>Height</th>
-    <th>Width</th>
-    <th>Deep</th>
-    <th>Devi</th>
+    <th>Prix</th>
+    <th>Largeur</th>
+    <th>Hauteur</th>
+    <th>Profondeur</th>
     <th></th>
     <th></th>
     <th></th>
@@ -23,19 +22,18 @@
     <td><%= produit.name %></td>
     <td><%= produit.element %></td>
     <td><%= produit.category %></td>
-    <td><%= produit.revetement %></td>
-    <td><%= produit.price %></td>
-    <td><%= produit.height %></td>
+    <td><%= produit.revetement.capitalize %></td>
+    <td><%= produit.price %> €</td>
     <td><%= produit.width %></td>
+    <td><%= produit.height %></td>
     <td><%= produit.deep %></td>
-    <td><%= produit.devi %></td>
-    <td><%= link_to 'Show', [produit.devi, produit] %></td>
-    <td><%= link_to 'Edit', edit_devi_produit_path(produit.devi, produit) %></td>
-    <td><%= link_to 'Destroy', [produit.devi, produit], method: :delete, data: { confirm: 'Are you sure?' } %></td>
+    <td><%= link_to 'Détail', [produit.devi, produit] %></td>
+    <td><%= link_to 'Modifier', edit_devi_produit_path(produit.devi, produit) %></td>
+    <td><%= link_to 'Supprimer', [produit.devi, produit], method: :delete, data: { confirm: 'Dernier mot?' } %></td>
   </tr>
 <% end %>
 </table>
 
 <br />
 
-<%= link_to 'New Produit', new_devi_produit_path(params[:devi_id]) %>
+<%= link_to 'Ajouter un produit', new_devi_produit_path(params[:devi_id]) %>
