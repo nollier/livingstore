@@ -1,54 +1,21 @@
-<%= form_for([@produit.devi, @produit]) do |f| %>
-  <% if @produit.errors.any? %>
-    <div id="error_explanation">
-      <h2><%= pluralize(@produit.errors.count, "error") %> prohibited this produit from being saved:</h2>
+<h2>Sélectionnez un produit existant ou créez en un :</h2>
 
-      <ul>
-      <% @produit.errors.full_messages.each do |msg| %>
-        <li><%= msg %></li>
-      <% end %>
-      </ul>
-    </div>
-  <% end %>
 
-  <div class="field">
-    <%= f.label :fabricant %><br />
-    <%= f.text_field :fabricant %>
-  </div>
-  <div class="field">
-    <%= f.label :name %><br />
-    <%= f.text_field :name %>
-  </div>
-  <div class="field">
-    <%= f.label :element %><br />
-    <%= f.text_field :element %>
-  </div>
-  <div class="field">
-    <%= f.label :category %><br />
-    <%= f.text_field :category %>
-  </div>
-  <div class="field">
-    <%= f.label :revetement %><br />
-    <%= f.text_field :revetement %>
-  </div>
-  <div class="field">
-    <%= f.label :price %><br />
-    <%= f.number_field :price %>
-  </div>
-  <div class="field">
-    <%= f.label :height %><br />
-    <%= f.number_field :height %>
-  </div>
-  <div class="field">
-    <%= f.label :width %><br />
-    <%= f.number_field :width %>
-  </div>
-  <div class="field">
-    <%= f.label :deep %><br />
-    <%= f.number_field :deep %>
-  </div>
+<% fabricants = ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
 
-  <div class="actions">
-    <%= f.submit %>
-  </div>
+<%= simple_form_for [ @produit.devi, @produit] do |f| %>
+
+  <%= f.input :fabricant, label: 'Fabricant', collection: ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
+  <%= f.input :name, label: 'Nom' %>
+  <%= f.input :element, label:'Element' %>
+  <%= f.input :category, label:'Categorie' %>
+  <%= f.input :revetement, label:'Revetement' %>
+  <%= f.input :price, label:'Prix' %>
+  <%= f.input :width, label:'Largeur' %>
+  <%= f.input :height, label:'Hauteur' %>
+  <%= f.input :deep, label:'Profondeur' %>
+  <%= f.submit 'Valider' %>
+
+
 <% end %>
+

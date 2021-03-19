@@ -5,3 +5,4 @@ class DeviTest < ActiveSupport::TestCase
   #   assert true
   # end
 end
+

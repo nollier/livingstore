@@ -66,6 +66,6 @@ class DevisController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def devi_params
-      params.require(:devi).permit(:decorateur, :nom, :prenom, :email, :telephone, :adresse, :numero)
+      params.require(:devi).permit(:decorateur, :nom, :prenom, :email, :telephone, :adresse, :numero, :produit_ids)
     end
 end
