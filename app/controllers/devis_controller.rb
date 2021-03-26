@@ -24,6 +24,8 @@ class DevisController < ApplicationController
   # POST /devis or /devis.json
   def create
     @devi = current_user.devis.build(devi_params)
+    last_devi = Devi.last
+    @devi.numero = last_devi.numero.to_i + 1
 
     respond_to do |format|
       if @devi.save

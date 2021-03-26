@@ -15,6 +15,7 @@ class ProduitsController < ApplicationController
   # GET devis/1/produits/new
   def new
     @produit = @devi.produits.build
+
   end
 
   # GET devis/1/produits/1/edit
