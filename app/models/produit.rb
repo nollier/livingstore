@@ -1,3 +1,3 @@
 class Produit < ApplicationRecord
-  belongs_to :devi
+  has_many :devis
 end

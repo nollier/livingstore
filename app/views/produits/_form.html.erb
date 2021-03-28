@@ -1,11 +1,6 @@
-<h2>Sélectionnez un produit existant ou créez en un :</h2>
-
-
-<% fabricants = ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
-
 <%= simple_form_for [ @produit.devi, @produit] do |f| %>
 
-  <%= f.input :fabricant, label: 'Fabricant', collection: ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
+  <%= f.input :fabricant, label: 'Fabricant' %>
   <%= f.input :name, label: 'Nom' %>
   <%= f.input :element, label:'Element' %>
   <%= f.input :category, label:'Categorie' %>
