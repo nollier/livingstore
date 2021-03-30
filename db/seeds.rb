@@ -47,8 +47,25 @@ user = User.new(
 user.save!
 
 
-puts 'Adding all the products... ✨'
+puts '-------------------'
 
+puts 'Creating some devis'
+
+10.times do
+  new_devi = Devi.new(
+    nom: name.sample,
+    prenom: prenom.sample,
+    telephone: phone_number.sample,
+    adresse: address.sample,
+    email: email.sample,
+    decorateur: decorateur.sample,
+    numero: number.sample,
+    user_id: user.id,
+  )
+  new_devi.save!
+end
+puts '-------------------------------'
+puts 'Adding all the products... ✨'
 30. times do
   new_product = Produit.new(
     name: name_product.sample,
@@ -59,26 +76,9 @@ puts 'Adding all the products... ✨'
     price: price.sample,
     width: width.sample,
     height: height.sample,
-    deep: deep.sample
+    deep: deep.sample,
+    devi_id: Devi.last.id
   )
   new_product.save!
 end
 
-puts 'Creating some devis'
-
-10.times do
-  new_customer = Devi.new(
-    nom: name.sample,
-    prenom: prenom.sample,
-    telephone: phone_number.sample,
-    adresse: address.sample,
-    email: email.sample,
-    decorateur: decorateur.sample,
-    numero: number.sample,
-    user_id: user.id,
-    produit_id: Produit.last.id
-  )
-  new_customer.save!
-end
-
-puts '-------------------'

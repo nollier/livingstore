@@ -1,7 +1,10 @@
+
+<%= button_to "Se déconnecter", destroy_user_session_path, method: :delete  %>
+
 <div class="card">
   <div class="card-header">
     <h1 class='card-title d-flex justify-content-between mb-4'>
-      <span>Devis</span>
+      <span>Tous nos devis :</span>
       <%= link_to 'Nouveau devis', new_devi_path, class: 'btn btn-primary' %>
     </h1>
   </div>

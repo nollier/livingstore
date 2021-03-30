@@ -1,16 +1,25 @@
+<% @produits = Produit.all %>
+
 <%= simple_form_for [ @produit.devi, @produit] do |f| %>
 
-  <%= f.input :fabricant, label: 'Fabricant' %>
-  <%= f.input :name, label: 'Nom' %>
+  <h4>Merci de sélectionner un fabricant : </h4>
+
+
+  <%= f.collection_select(:fabricant, Produit.all, :id, :fabricant, :prompt => 'Veuillez choisir') %>
+
+
+  <p>Quel produit recherchez-vous ?</p>
+
+  <%= f.input :name, :collection => @produits, label_tag => :name, :value_method => :name, :label => 'Nom', :include_blank => false %>
   <%= f.input :element, label:'Element' %>
-  <%= f.input :category, label:'Categorie' %>
+  <%= f.collection_select(:element, Produit.where(fabricant: 'Natuzzi'), :id, :name, :prompt => 'Veuillez choisir') %>
   <%= f.input :revetement, label:'Revetement' %>
+  <%= f.input :category, label:'Categorie' %>
   <%= f.input :price, label:'Prix' %>
   <%= f.input :width, label:'Largeur' %>
   <%= f.input :height, label:'Hauteur' %>
   <%= f.input :deep, label:'Profondeur' %>
   <%= f.submit 'Valider' %>
-
-
 <% end %>
+
 

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_03_28_164720) do
+ActiveRecord::Schema.define(version: 2021_03_17_135014) do
 
   create_table "devis", force: :cascade do |t|
     t.string "decorateur"
@@ -23,8 +23,6 @@ ActiveRecord::Schema.define(version: 2021_03_28_164720) do
     t.integer "user_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.integer "produit_id"
-    t.index ["produit_id"], name: "index_devis_on_produit_id"
     t.index ["user_id"], name: "index_devis_on_user_id"
   end
 
@@ -38,8 +36,10 @@ ActiveRecord::Schema.define(version: 2021_03_28_164720) do
     t.integer "height"
     t.integer "width"
     t.integer "deep"
+    t.integer "devi_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["devi_id"], name: "index_produits_on_devi_id"
   end
 
   create_table "users", force: :cascade do |t|
@@ -54,6 +54,6 @@ ActiveRecord::Schema.define(version: 2021_03_28_164720) do
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
   end
 
-  add_foreign_key "devis", "produits"
   add_foreign_key "devis", "users"
+  add_foreign_key "produits", "devis"
 end
