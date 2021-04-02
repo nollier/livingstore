@@ -6,6 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+require 'csv'
 
 name = ['GICQUIAUD', 'FORVEILLE', 'DUPAS', 'VERGNAC', 'BUNOT', 'COCAULT',
 'SUSINI', 'GRENIER', 'LEROY', 'CHARDONNAL']
@@ -32,9 +33,9 @@ name_product = ['Tratto', 'Monnalisa', 'Bamboo', 'Borghese', 'Iago', 'Serena', '
 number = [43528, 43529, 43531, 43532, 43533, 43534, 43535, 43536, 43537, 43538]
 decorateur = ['Élise', 'David', 'Anthony', 'Autre']
 
-User.destroy_all
 Produit.destroy_all
 Devi.destroy_all
+User.destroy_all
 
 puts '-----------------------'
 
@@ -66,19 +67,37 @@ puts 'Creating some devis'
 end
 puts '-------------------------------'
 puts 'Adding all the products... ✨'
-30. times do
-  new_product = Produit.new(
-    name: name_product.sample,
-    fabricant: fabricant.sample,
-    element: element.sample,
-    revetement: revetement.sample,
-    category: category.sample,
-    price: price.sample,
-    width: width.sample,
-    height: height.sample,
-    deep: deep.sample,
+# 30. times do
+#   new_product = Produit.new(
+#     name: name_product.sample,
+#     fabricant: fabricant.sample,
+#     element: element.sample,
+#     revetement: revetement.sample,
+#     category: category.sample,
+#     price: price.sample,
+#     width: width.sample,
+#     height: height.sample,
+#     deep: deep.sample,
+#     devi_id: Devi.last.id
+#   )
+#   new_product.save!
+# end
+
+
+csv_options = { col_sep: ';', quote_char: '"', headers: :first_row }
+filepath    = 'db/produIts.csv'
+
+CSV.foreach(filepath, csv_options) do |row|
+  Produit.create(
+    name: row['name'],
+    fabricant: row['fabricant'],
+    element: row['element'],
+    revetement: row['revetement'],
+    price: row['price'],
+    category: row['category'],
+    height: row['height'],
+    width: row['width'],
+    deep: row['deep'],
     devi_id: Devi.last.id
   )
-  new_product.save!
 end
-

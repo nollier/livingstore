@@ -1,18 +1,53 @@
-<% @produits = Produit.all %>
+<h4>Merci de sélectionner le fabricant : </h4>
+
+
+<% @fabricants.count %>
+<% total_fabricant = 0 %>
+ <form>
+  <% while total_fabricant < @fabricants.count %>
+    <input type="radio" id="fabricant" name="fabricant" value="<%= @fabricants %>" />
+    <label for="fabricant"> <%= @fabricants[total_fabricant]%></label>
+    <% total_fabricant = total_fabricant += 1 %>
+  <% end %>
+  <input type="submit" value="Suivant">
+
+
+
+
+
+</form>
+
+<p>----------------------------------</p>
+
+
+
+
+
+<p>Quel produit recherchez-vous ?</p>
+
+
+
+
+
+
+
+
+<%= Produit.create () %>
+
+
+
+
+
+
+
+
+
+
 
 <%= simple_form_for [ @produit.devi, @produit] do |f| %>
-
-  <h4>Merci de sélectionner un fabricant : </h4>
-
-
   <%= f.collection_select(:fabricant, Produit.all, :id, :fabricant, :prompt => 'Veuillez choisir') %>
-
-
-  <p>Quel produit recherchez-vous ?</p>
-
   <%= f.input :name, :collection => @produits, label_tag => :name, :value_method => :name, :label => 'Nom', :include_blank => false %>
-  <%= f.input :element, label:'Element' %>
-  <%= f.collection_select(:element, Produit.where(fabricant: 'Natuzzi'), :id, :name, :prompt => 'Veuillez choisir') %>
+  <%= f.collection_select(:element, Produit.where(fabricant: 'natuzzi', name: 'Dorian'), :id, :element, :prompt => 'Veuillez choisir') %>
   <%= f.input :revetement, label:'Revetement' %>
   <%= f.input :category, label:'Categorie' %>
   <%= f.input :price, label:'Prix' %>
@@ -21,5 +56,4 @@
   <%= f.input :deep, label:'Profondeur' %>
   <%= f.submit 'Valider' %>
 <% end %>
-
 
