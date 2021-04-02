@@ -1,22 +1,4 @@
 <h4>Merci de sélectionner le fabricant : </h4>
-
-
-<% @fabricants.count %>
-<% total_fabricant = 0 %>
- <form>
-  <% while total_fabricant < @fabricants.count %>
-    <input type="radio" id="fabricant" name="fabricant" value="<%= @fabricants %>" />
-    <label for="fabricant"> <%= @fabricants[total_fabricant]%></label>
-    <% total_fabricant = total_fabricant += 1 %>
-  <% end %>
-  <input type="submit" value="Suivant">
-
-</form>
-
-<p>----------------------------------</p>
-
-<p>Quel produit recherchez-vous ?</p>
-
 <% produits = Produit.all.where(fabricant: 'natuzzi') %>
 <% produit = [] %>
 <% produits.each do |p| %>
@@ -26,26 +8,40 @@
 
 <% all_produits.count %>
 <% total_produit = 0 %>
+
+<% @fabricants.count %>
+<% total_fabricant = 0 %>
  <form>
-  <% while total_produit < all_produits.count %>
-    <input type="radio" id="produit" name="produit" value="<%= produits %>" />
-    <label for="produit"> <%= all_produits[total_produit]%></label>
-    <% total_produit = total_produit += 1 %>
+  <p><strong>Fabricant :</strong></p>
+  <% while total_fabricant < @fabricants.count %>
+    <input type="radio" id="fabricant" name="fabricant" value="<%= @fabricants %>" />
+    <label for="fabricant"> <%= @fabricants[total_fabricant]%></label>
+    <% total_fabricant = total_fabricant += 1 %>
   <% end %>
-  <input type="submit" value="Suivant">
+  <hr>
+  <p><strong>Revetement :</strong></p>
+    <input type="radio" id="cuir" name="cuir" value="cuir" />
+    <label for="revetement">Cuir </label>
+    <input type="radio" id="tissu" name="tissu" value="tissu" />
+    <label for="revetement">Tissu </label>
+    <input type="submit" value="Suivant">
+  <p><strong>Nom :</strong></p>
+    <% while total_produit < all_produits.count %>
+      <input type="radio" id="produit" name="produit" value="<%= produits %>" />
+      <label for="produit"> <%= all_produits[total_produit]%></label>
+      <% total_produit = total_produit += 1 %>
+    <% end %>
+  </form>
+
+<p>----------------------------------</p>
+
+<p>Quel produit recherchez-vous ?</p>
+
 
 
 
 
 <% Produit.create () %>
-
-
-
-
-
-
-
-
 
 
 <%= simple_form_for [ @produit.devi, @produit] do |f| %>
@@ -62,3 +58,9 @@
   <%= f.submit 'Valider' %>
 <% end %>
 
+
+<%= simple_form_for [ @produit.devi, @produit] do |f| %>
+  <% f.input :fabricant, input_html: { class: 'fabricant' } %>
+  <% f.input :name, input_html: { class: 'name' } %>
+  <% f.input :revetement, input_html: { class: 'revetement' }  %>
+<% end %>
