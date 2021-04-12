@@ -1,0 +1,990 @@
+fabricant;element;revetement;category;price;height;width;deep;name
+natuzzi;Coussin Carre' Moyen;cuir;CAT 40;332;50;50;15;Melpot
+natuzzi;Coussin Carre' Moyen;cuir;CAT 55;375;50;50;15;Melpot
+natuzzi;Coussin Carre' Moyen;cuir;CAT 60;412;50;50;15;Melpot
+natuzzi;Chauffeuse;tissu;CAT 70;1615;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 78;1674;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 83;1727;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 85;1795;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 86;1848;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 88;1944;65;97;99;Melpot
+natuzzi;Chauffeuse;tissu;CAT 99;2040;65;97;99;Melpot
+natuzzi;Pouf;tissu;CAT 70;1243;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 78;1296;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 83;1361;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 85;1414;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 86;1466;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 88;1550;42;102;102;Melpot
+natuzzi;Pouf;tissu;CAT 99;1631;42;102;102;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 70;1848;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 78;1928;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 83;2012;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 85;2086;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 86;2164;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 88;2285;65;99;99;Melpot
+natuzzi;Angle Carre Panoramique;tissu;CAT 99;2409;65;99;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 70;2725;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 78;2849;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 83;2976;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 85;3100;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 86;3224;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 88;3419;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 99;3612;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 70;2725;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 78;2849;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 83;2976;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 85;3100;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 86;3224;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 88;3419;65;174;99;Melpot
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 99;3612;65;174;99;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;2415;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;2508;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;2589;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;2678;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;2768;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;2902;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;3044;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;2415;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;2508;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;2589;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;2678;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;2768;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;2902;65;110;144;Melpot
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;3044;65;110;144;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 70;2403;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 78;2499;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 83;2598;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 85;2697;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 86;2784;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 88;2939;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 99;3085;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 70;2403;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 78;2499;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 83;2598;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 85;2697;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 86;2784;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 88;2939;65;174;99;Melpot
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 99;3085;65;174;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 70;1587;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 78;1665;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 83;1745;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 85;1832;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 86;1907;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 88;2034;42;144;99;Melpot
+natuzzi;Pouf Grand;tissu;CAT 99;2155;42;144;99;Melpot
+natuzzi;Pouff Rond;tissu;CAT 70;487;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 78;508;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 83;530;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 85;539;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 86;558;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 88;589;51;47;47;Melpot
+natuzzi;Pouff Rond;tissu;CAT 99;611;51;47;47;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 70;242;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 78;260;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 83;285;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 85;307;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 86;322;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 88;350;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Petit;tissu;CAT 99;375;46;70;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 70;301;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 78;316;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 83;338;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 85;357;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 86;375;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 88;403;46;110;19;Melpot
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 99;428;46;110;19;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 70;2086;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 78;2155;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 83;2220;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 85;2291;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 86;2353;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 88;2455;65;99;144;Melpot
+natuzzi;Chaise Longue Sans Accoudoirs;tissu;CAT 99;2561;65;99;144;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 70;2269;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 78;2347;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 83;2434;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 85;2523;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 86;2604;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 88;2737;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 99;2858;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 70;2269;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 78;2347;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 83;2434;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 85;2523;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 86;2604;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 88;2737;65;144;99;Melpot
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 99;2858;65;144;99;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 70;831;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 78;877;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 83;924;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 85;970;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 86;1014;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 88;1085;38;144;49;Melpot
+natuzzi;Pouf Rectangulaire;tissu;CAT 99;1159;38;144;49;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 70;657;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 78;682;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 83;710;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 85;735;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 86;766;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 88;806;35;83;83;Melpot
+natuzzi;Pouff Rond Grand;tissu;CAT 99;846;35;83;83;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 70;899;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 78;949;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 83;992;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 85;1042;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 86;1079;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 88;1150;38;102;102;Melpot
+natuzzi;pouf carre' grand;tissu;CAT 99;1221;38;102;102;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 70;667;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 78;682;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 83;701;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 85;719;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 86;735;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 88;769;60;65;19;Melpot
+natuzzi;Coussin Avec Fonction;tissu;CAT 99;794;60;65;19;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 70;2080;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 78;2155;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 83;2220;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 85;2297;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 86;2359;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 88;2461;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.gau.;tissu;CAT 99;2573;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 70;2080;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 78;2155;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 83;2220;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 85;2297;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 86;2359;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 88;2461;65;144;99;Melpot
+natuzzi;petit chauf.uneplace term.dro.;tissu;CAT 99;2573;65;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 70;1928;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 78;2003;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 83;2065;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 85;2139;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 86;2204;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 88;2316;54;144;99;Melpot
+natuzzi;Chair+½ Low Arm No Backrest;tissu;CAT 99;2424;54;144;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 70;2297;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 78;2403;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 83;2505;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 85;2610;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 86;2694;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 88;2864;54;174;99;Melpot
+natuzzi;2Str Sofa Low Arm No Backrest;tissu;CAT 99;3019;54;174;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 70;2279;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 78;2372;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 83;2461;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 85;2548;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 86;2641;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 88;2775;65;144;99;Melpot
+natuzzi;Chair And ½ Laf With Low Arm;tissu;CAT 99;2911;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 70;2279;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 78;2372;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 83;2461;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 85;2548;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 86;2641;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 88;2775;65;144;99;Melpot
+natuzzi;Chair And ½ Raf With Low Arm;tissu;CAT 99;2911;65;144;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 70;2629;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 78;2759;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 83;2880;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 85;3007;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 86;3131;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 88;3329;65;174;99;Melpot
+natuzzi;2 Seater Sofa Laf With Low Arm;tissu;CAT 99;3522;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 70;2629;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 78;2759;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 83;2880;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 85;3007;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 86;3131;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 88;3329;65;174;99;Melpot
+natuzzi;2 Seater Sofa Raf With Low Arm;tissu;CAT 99;3522;65;174;99;Melpot
+natuzzi;Chauffeuse;cuir;CAT 15;2951;82;94;100;CAMPUS
+natuzzi;Chauffeuse;cuir;CAT 25;3218;82;94;100;CAMPUS
+natuzzi;Chauffeuse;cuir;CAT 30;3426;82;94;100;CAMPUS
+natuzzi;Chauffeuse;cuir;CAT 40;3844;82;94;100;CAMPUS
+natuzzi;Chauffeuse;cuir;CAT 55;4263;82;94;100;CAMPUS
+natuzzi;Chauffeuse;cuir;CAT 60;4892;82;94;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 15;3918;82;105;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 25;4272;82;105;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 30;4576;82;105;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 40;5177;82;105;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 55;5778;82;105;100;CAMPUS
+natuzzi;Fauteuil;cuir;CAT 60;6690;82;105;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 15;5555;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 25;6061;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 30;6513;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 40;7415;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 55;8311;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 60;9666;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 15;5555;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 25;6061;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 30;6513;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 40;7415;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 55;8311;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 60;9666;82;194;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 15;3971;82;123;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 25;4334;82;123;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 30;4641;82;123;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 40;5264;82;123;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 55;5887;82;123;100;CAMPUS
+natuzzi;Angle Gauche;cuir;CAT 60;6823;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 15;3971;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 25;4334;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 30;4641;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 40;5264;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 55;5887;82;123;100;CAMPUS
+natuzzi;Angle Droite;cuir;CAT 60;6823;82;123;100;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 15;4008;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 25;4368;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 30;4672;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 40;5279;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 55;5881;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 60;6792;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 15;4008;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 25;4368;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 30;4672;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 40;5279;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 55;5881;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 60;6792;82;100;148;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 15;3500;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 25;3819;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 30;4083;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 40;4616;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 55;5149;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 60;5949;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 15;3500;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 25;3819;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 30;4083;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 40;4616;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 55;5149;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 60;5949;82;152;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 15;6088;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 25;6640;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 30;7133;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 40;8122;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 55;9114;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;cuir;CAT 60;10596;82;198;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 15;3791;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 25;4135;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 30;4436;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 40;5028;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 55;5623;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 60;6519;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 15;3791;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 25;4135;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 30;4436;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 40;5028;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 55;5623;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 60;6519;82;123;100;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 15;1702;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 25;1854;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 30;1962;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 40;2198;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 55;2421;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;cuir;CAT 60;2759;41;94;94;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 15;2368;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 25;2582;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 30;2675;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 40;2868;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 55;3057;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;cuir;CAT 60;3342;59;99;99;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 70;2353;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 78;2427;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 83;2496;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 85;2573;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 86;2644;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 88;2793;82;94;100;CAMPUS
+natuzzi;Chauffeuse;tissu;CAT 99;2945;82;94;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 70;3016;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 78;3122;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 83;3227;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 85;3326;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 86;3432;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 88;3639;82;105;100;CAMPUS
+natuzzi;Fauteuil;tissu;CAT 99;3844;82;105;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 70;4179;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 78;4331;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 83;4476;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 85;4619;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 86;4768;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 88;5065;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Gauche;tissu;CAT 99;5357;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 70;4179;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 78;4331;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 83;4476;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 85;4619;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 86;4768;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 88;5065;82;194;100;CAMPUS
+natuzzi;Batard 2Pl Acc Droite;tissu;CAT 99;5357;82;194;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 70;3041;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 78;3137;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 83;3240;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 85;3339;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 86;3444;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 88;3649;82;123;100;CAMPUS
+natuzzi;Angle Gauche;tissu;CAT 99;3853;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 70;3041;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 78;3137;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 83;3240;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 85;3339;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 86;3444;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 88;3649;82;123;100;CAMPUS
+natuzzi;Angle Droite;tissu;CAT 99;3853;82;123;100;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;3116;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;3215;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;3314;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;3416;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;3515;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;3714;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;3918;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;3116;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;3215;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;3314;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;3416;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;3515;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;3714;82;100;148;CAMPUS
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;3918;82;100;148;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 70;2747;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 78;2837;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 83;2923;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 85;3010;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 86;3100;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 88;3277;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 99;3444;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 70;2747;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 78;2837;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 83;2923;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 85;3010;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 86;3100;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 88;3277;82;152;100;CAMPUS
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 99;3444;82;152;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 70;4594;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 78;4768;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 83;4935;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 85;5109;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 86;5279;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 88;5614;82;198;100;CAMPUS
+natuzzi;Canape 2 Places Et Demi;tissu;CAT 99;5955;82;198;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 70;2880;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 78;2973;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 83;3060;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 85;3150;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 86;3236;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 88;3416;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 99;3599;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 70;2880;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 78;2973;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 83;3060;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 85;3150;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 86;3236;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 88;3416;82;123;100;CAMPUS
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 99;3599;82;123;100;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 70;1429;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 78;1482;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 83;1525;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 85;1575;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 86;1624;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 88;1717;41;94;94;CAMPUS
+natuzzi;pouf carre' grand;tissu;CAT 99;1817;41;94;94;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 70;2285;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 78;2325;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 83;2362;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 85;2403;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 86;2440;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 88;2517;59;99;99;CAMPUS
+natuzzi;CORNER WITH TABLE TOP;tissu;CAT 99;2592;59;99;99;CAMPUS
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 15;4476;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 25;4687;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 30;4852;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 40;5186;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 55;5521;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 60;6030;73;130;130;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 15;4303;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 25;4501;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 30;4678;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 40;5031;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 55;5385;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 60;5909;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 15;4303;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 25;4501;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 30;4678;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 40;5031;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 55;5385;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 60;5909;73;113;145;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 15;3528;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 25;3695;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 30;3841;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 40;4132;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 55;4430;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 60;4870;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 15;3528;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 25;3695;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 30;3841;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 40;4132;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 55;4430;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 60;4870;73;137;97;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 15;363;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 25;381;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 30;415;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 40;490;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 55;558;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 60;667;51;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 15;239;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 25;251;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 30;270;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 40;304;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 55;341;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 60;400;25;68;12;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 15;3593;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 25;3757;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 30;3906;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 40;4201;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 55;4501;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 60;4945;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 15;3593;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 25;3757;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 30;3906;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 40;4201;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 55;4501;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 60;4945;73;113;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 15;2768;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 25;2899;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 30;2995;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 40;3193;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 55;3395;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 60;3689;73;82;97;SELVA
+natuzzi;Banc;cuir;CAT 15;1463;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 25;1528;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 30;1569;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 40;1646;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 55;1727;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 60;1841;45;42;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 15;2093;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 25;2189;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 30;2254;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 40;2390;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 55;2533;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 60;2740;45;92;92;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 15;4222;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 25;4421;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 30;4545;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 40;4790;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 55;5038;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 60;5410;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 15;4222;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 25;4421;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 30;4545;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 40;4790;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 55;5038;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 60;5410;73;113;145;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 70;3962;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 78;4015;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 83;4070;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 85;4129;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 86;4185;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 88;4294;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 99;4402;73;130;130;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;3739;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;3804;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;3860;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;3918;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;3971;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;4086;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;4207;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;3739;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;3804;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;3860;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;3918;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;3971;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;4086;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;4207;73;113;145;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 70;3047;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 78;3097;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 83;3143;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 85;3187;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 86;3236;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 88;3329;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 99;3426;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 70;3047;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 78;3097;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 83;3143;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 85;3187;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 86;3236;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 88;3329;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 99;3426;73;137;97;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 70;245;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 78;260;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 83;276;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 85;291;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 86;307;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 88;341;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;tissu;CAT 99;378;51;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 70;167;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 78;174;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 83;183;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 85;189;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 86;202;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 88;211;25;68;12;SELVA
+natuzzi;Cale-reins;tissu;CAT 99;226;25;68;12;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 70;3116;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 78;3168;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 83;3218;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 85;3264;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 86;3314;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 88;3416;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 99;3519;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 70;3116;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 78;3168;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 83;3218;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 85;3264;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 86;3314;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 88;3416;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 99;3519;73;113;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 70;2468;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 78;2508;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 83;2551;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 85;2592;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 86;2632;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 88;2709;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;tissu;CAT 99;2790;73;82;97;SELVA
+natuzzi;Banc;tissu;CAT 70;1364;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 78;1383;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 83;1392;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 85;1411;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 86;1420;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 88;1451;45;42;92;SELVA
+natuzzi;Banc;tissu;CAT 99;1485;45;42;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 70;1919;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 78;1947;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 83;1978;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 85;2006;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 86;2034;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 88;2096;45;92;92;SELVA
+natuzzi;pouf carre' grand;tissu;CAT 99;2151;45;92;92;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 70;3887;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 78;3931;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 83;3974;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 85;4027;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 86;4073;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 88;4170;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;tissu;CAT 99;4266;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 70;3887;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 78;3931;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 83;3974;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 85;4027;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 86;4073;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 88;4170;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;tissu;CAT 99;4266;73;113;145;SELVA
+natuzzi;Chauffeuse;tissu;CAT 70;1541;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 78;1631;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 83;1727;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 85;1814;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 86;1900;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 88;2083;83;89;108;Domino
+natuzzi;Chauffeuse;tissu;CAT 99;2461;83;89;108;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 70;2148;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 78;2269;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 83;2396;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 85;2520;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 86;2644;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 88;2886;83;104;104;Domino
+natuzzi;Angle Carre Panoramique;tissu;CAT 99;3416;83;104;104;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 70;2582;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 78;2750;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 83;2920;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 85;3088;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 86;3258;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 88;3599;83;152;108;Domino
+natuzzi;Banquette 2Pl;tissu;CAT 99;4287;83;152;108;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 70;3680;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 78;3881;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 83;4108;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 85;4325;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 86;4542;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 88;4985;83;169;169;Domino
+natuzzi;Angle Arrondi Panoramique;tissu;CAT 99;5902;83;169;169;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;2920;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;3063;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;3205;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;3357;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;3497;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;3798;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;4436;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;2920;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;3063;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;3205;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;3357;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;3497;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;3798;83;117;190;Domino
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;4436;83;117;190;Domino
+natuzzi;Pouf Grand;tissu;CAT 70;763;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 78;812;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 83;856;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 85;915;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 86;967;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 88;1063;34;92;92;Domino
+natuzzi;Pouf Grand;tissu;CAT 99;1271;34;92;92;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 70;2858;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 78;3035;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 83;3205;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 85;3382;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 86;3568;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 88;3928;83;178;108;Domino
+natuzzi;Banquette 3Pl;tissu;CAT 99;4656;83;178;108;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 70;614;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 78;639;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 83;670;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 85;701;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 86;732;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 88;791;56;25;104;Domino
+natuzzi;ACCOUDOIR ÉTROIT;tissu;CAT 99;930;56;25;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 70;750;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 78;791;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 83;840;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 85;884;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 86;924;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 88;1004;48;49;104;Domino
+natuzzi;ACCOUDOIR LARGE;tissu;CAT 99;1190;48;49;104;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 70;1432;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 78;1519;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 83;1606;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 85;1702;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 86;1786;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 88;1959;83;76;108;Domino
+natuzzi;Petit Chauffeuse;tissu;CAT 99;2341;83;76;108;Domino
+natuzzi;Fauteuil;tissu;CAT 70;1767;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 78;1835;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 83;1922;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 85;1996;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 86;2068;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 88;2213;111;78;102;Marlene
+natuzzi;Fauteuil;tissu;CAT 99;2554;111;78;102;Marlene
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 70;2561;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 78;2641;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 83;2728;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 85;2815;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 86;2911;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 88;3106;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Gauche;tissu;CAT 99;3376;76;97;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 70;2158;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 78;2213;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 83;2282;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 85;2353;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 86;2427;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 88;2585;76;80;102;Long Beach
+natuzzi;Chauffeuse;tissu;CAT 99;2796;76;80;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 70;2561;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 78;2641;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 83;2728;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 85;2815;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 86;2911;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 88;3106;76;97;102;Long Beach
+natuzzi;Batard 1Pl Acc Droite;tissu;CAT 99;3376;76;97;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 70;2849;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 78;2967;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 83;3106;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 85;3271;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 86;3413;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 88;3698;78;106;102;Long Beach
+natuzzi;Fauteuil;tissu;CAT 99;4070;78;106;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 70;4910;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 78;5112;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 83;5351;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 85;5620;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 86;5856;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 88;6327;78;194;102;Long Beach
+natuzzi;Canape 2Pl Fixe;tissu;CAT 99;6966;78;194;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 70;5313;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 78;5518;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 83;5757;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 85;6030;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 86;6265;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 88;6746;78;234;102;Long Beach
+natuzzi;Canape 3Pl Fixe;tissu;CAT 99;7375;78;234;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 70;3305;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 78;3438;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 83;3599;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 85;3794;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 86;3946;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 88;4272;78;130;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 99;4690;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 70;3305;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 78;3438;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 83;3599;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 85;3794;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 86;3946;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 88;4272;78;130;102;Long Beach
+natuzzi;Angle Droite;tissu;CAT 99;4690;78;130;102;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;3636;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;3748;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;3897;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;4061;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;4207;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;4489;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;4864;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;3636;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;3748;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;3897;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;4061;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;4207;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;4489;78;115;172;Long Beach
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;4864;78;115;172;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 70;1510;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 78;1559;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 83;1615;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 85;1683;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 86;1733;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 88;1845;46;105;105;Long Beach
+natuzzi;Pouf Grand;tissu;CAT 99;2000;46;105;105;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 70;2768;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 78;2849;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 83;2939;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 85;3026;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 86;3112;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 88;3320;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 99;3590;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 70;2768;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 78;2849;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 83;2939;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 85;3026;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 86;3112;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 88;3320;76;117;102;Long Beach
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 99;3590;76;117;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 70;2341;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 78;2406;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 83;2471;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 85;2545;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 86;2620;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 88;2771;76;100;102;Long Beach
+natuzzi;Chauffeuse Et Demi;tissu;CAT 99;2982;76;100;102;Long Beach
+natuzzi;Angle Gauche;tissu;CAT 70;3230;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 78;3311;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 83;3395;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 85;3506;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 86;3596;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 88;3785;77;145;99;Herman
+natuzzi;Angle Gauche;tissu;CAT 99;4024;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 70;3230;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 78;3311;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 83;3395;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 85;3506;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 86;3596;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 88;3785;77;145;99;Herman
+natuzzi;Angle Droite;tissu;CAT 99;4024;77;145;99;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 70;3336;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 78;3410;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 83;3503;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 85;3612;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 86;3708;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 88;3897;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Gauche;tissu;CAT 99;4139;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 70;3336;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 78;3410;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 83;3503;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 85;3612;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 86;3708;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 88;3897;77;114;155;Herman
+natuzzi;Chaise-Longue Acc Droite;tissu;CAT 99;4139;77;114;155;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 70;2790;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 78;2871;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 83;2957;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 85;3063;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 86;3150;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 88;3333;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Gauche;tissu;CAT 99;3577;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 70;2790;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 78;2871;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 83;2957;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 85;3063;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 86;3150;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 88;3333;77;177;99;Herman
+natuzzi;Chauf.Uneplace Term. Droite;tissu;CAT 99;3577;77;177;99;Herman
+natuzzi;Pouf Grand;tissu;CAT 70;899;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 78;936;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 83;973;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 85;1026;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 86;1063;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 88;1147;41;88;88;Herman
+natuzzi;Pouf Grand;tissu;CAT 99;1249;41;88;88;Herman
+natuzzi;Pouff Rond;tissu;CAT 70;828;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 78;837;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 83;843;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 85;853;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 86;862;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 88;884;41;47;47;Herman
+natuzzi;Pouff Rond;tissu;CAT 99;911;41;47;47;Herman
+natuzzi;Cale-reins;tissu;CAT 70;143;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 78;152;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 83;180;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 85;198;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 86;208;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 88;239;31;60;16;Herman
+natuzzi;Cale-reins;tissu;CAT 99;279;31;60;16;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 70;2824;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 78;2886;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 83;2964;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 85;3054;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 86;3131;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 88;3283;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Gauche;tissu;CAT 99;3491;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 70;2824;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 78;2886;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 83;2964;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 85;3054;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 86;3131;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 88;3283;77;114;99;Herman
+natuzzi;Batard 1Pl Et Demi Acc Droite;tissu;CAT 99;3491;77;114;99;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 70;3398;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 78;3478;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 83;3581;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 85;3692;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 86;3788;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 88;3974;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Gauche 2^Opt;tissu;CAT 99;4235;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 70;3398;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 78;3478;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 83;3581;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 85;3692;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 86;3788;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 88;3974;77;115;155;Herman
+natuzzi;Chaise-Longue Acc Droite 2^Opt;tissu;CAT 99;4235;77;115;155;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 70;2068;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 78;2114;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 83;2179;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 85;2251;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 86;2310;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 88;2430;77;98;99;Herman
+natuzzi;Chauffeuse Et Demi;tissu;CAT 99;2595;77;98;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 70;2892;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 78;2964;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 83;3044;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 85;3137;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 86;3221;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 88;3382;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Gau.2°Opz.;tissu;CAT 99;3605;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 70;2892;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 78;2964;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 83;3044;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 85;3137;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 86;3221;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 88;3382;77;115;99;Herman
+natuzzi;Bat.1Pl Et Demi Acc Dro.2°Opz.;tissu;CAT 99;3605;77;115;99;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 70;1367;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 78;1411;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 83;1463;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 85;1522;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 86;1569;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 88;1665;41;136;88;Herman
+natuzzi;Angle Loin Sans Dossier;tissu;CAT 99;1801;41;136;88;Herman
+natuzzi;Banc;tissu;CAT 70;1494;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 78;1513;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 83;1528;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 85;1553;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 86;1569;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 88;1612;41;128;48;Herman
+natuzzi;Banc;tissu;CAT 99;1662;41;128;48;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 70;378;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 78;397;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 83;431;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 85;456;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 86;481;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 88;536;60;62;60;Herman
+natuzzi;Coussin Avec Fonction;tissu;CAT 99;598;60;62;60;Herman
+natuzzi;Canape 2Pl Fixe;cuir;CAT 30;4746;77;198;104;Kendo
+natuzzi;Canape 2Pl Fixe;cuir;CAT 60;6538;77;198;104;Kendo
+natuzzi;Canape 3Pl Fixe;cuir;CAT 30;5456;77;242;104;Kendo
+natuzzi;Canape 3Pl Fixe;cuir;CAT 60;7533;77;242;104;Kendo
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 30;4135;77;174;104;Kendo
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 60;5658;77;174;104;Kendo
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 30;4135;77;174;104;Kendo
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 60;5658;77;174;104;Kendo
+natuzzi;Batard 3Pl Acc Gauche;cuir;CAT 30;4728;77;218;104;Kendo
+natuzzi;Batard 3Pl Acc Gauche;cuir;CAT 60;6541;77;218;104;Kendo
+natuzzi;Batard 3Pl Acc Droite;cuir;CAT 30;4728;77;218;104;Kendo
+natuzzi;Batard 3Pl Acc Droite;cuir;CAT 60;6541;77;218;104;Kendo
+natuzzi;Angle Gauche;cuir;CAT 30;3829;77;153;104;Kendo
+natuzzi;Angle Gauche;cuir;CAT 60;5152;77;153;104;Kendo
+natuzzi;Angle Droite;cuir;CAT 30;3829;77;153;104;Kendo
+natuzzi;Angle Droite;cuir;CAT 60;5152;77;153;104;Kendo
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 30;4108;77;124;168;Kendo
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 60;5592;77;124;168;Kendo
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 30;4108;77;124;168;Kendo
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 60;5592;77;124;168;Kendo
+natuzzi;Fauteuil Angle Term. Gauche;cuir;CAT 30;5078;77;242;104;Kendo
+natuzzi;Fauteuil Angle Term. Gauche;cuir;CAT 60;6984;77;242;104;Kendo
+natuzzi;Fauteuil Angle Term. Droite;cuir;CAT 30;5078;77;242;104;Kendo
+natuzzi;Fauteuil Angle Term. Droite;cuir;CAT 60;6984;77;242;104;Kendo
+natuzzi;Batard 3Pl Acc Gauche A/Term.;cuir;CAT 30;5053;77;242;104;Kendo
+natuzzi;Batard 3Pl Acc Gauche A/Term.;cuir;CAT 60;6956;77;242;104;Kendo
+natuzzi;Batard 3Pl Acc Droite A/Term.;cuir;CAT 30;5053;77;242;104;Kendo
+natuzzi;Batard 3Pl Acc Droite A/Term.;cuir;CAT 60;6956;77;242;104;Kendo
+natuzzi;FAUTEUIL  RE-VIVE;cuir;CAT 30;4600;115;90;82;Club King
+natuzzi;FAUTEUIL  RE-VIVE;cuir;CAT 60;5651;115;90;82;Club King
+natuzzi;Fauteuil+Repose-Pieds re-vive;cuir;CAT 30;5344;115;90;82;Club King
+natuzzi;Fauteuil+Repose-Pieds re-vive;cuir;CAT 60;6557;115;90;82;Club King
+natuzzi;Repose-Pieds re-vive;cuir;CAT 30;818;45;56;42;Club King
+natuzzi;Repose-Pieds re-vive;cuir;CAT 60;998;45;56;42;Club King
+natuzzi;FAUTEUIL  RE-VIVE;cuir;CAT 30;4439;109;85;80;Club Queen
+natuzzi;FAUTEUIL  RE-VIVE;cuir;CAT 60;5416;109;85;80;Club Queen
+natuzzi;Fauteuil+Repose-Pieds re-vive;cuir;CAT 30;5168;109;85;80;Club Queen
+natuzzi;Fauteuil+Repose-Pieds re-vive;cuir;CAT 60;6312;109;85;80;Club Queen
+natuzzi;Repose-Pieds re-vive;cuir;CAT 30;818;42;56;42;Club Queen
+natuzzi;Repose-Pieds re-vive;cuir;CAT 60;998;42;56;42;Club Queen
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 30;5007;73;130;130;SELVA
+natuzzi;Angle Arrondi Panoramique;cuir;CAT 60;6219;73;130;130;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 30;4833;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 60;6088;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 30;4833;73;113;145;SELVA
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 60;6088;73;113;145;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 30;3974;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Gauche;cuir;CAT 60;5022;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 30;3974;73;137;97;SELVA
+natuzzi;Chauf.Uneplace Term. Droite;cuir;CAT 60;5022;73;137;97;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 30;453;51;68;12;SELVA
+natuzzi;Coussin Rectangulaire Grand;cuir;CAT 60;701;51;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 30;291;25;68;12;SELVA
+natuzzi;Cale-reins;cuir;CAT 60;428;25;68;12;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 30;4042;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Gauche;cuir;CAT 60;5106;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 30;4042;73;113;97;SELVA
+natuzzi;Batard 1Pl Et Demi Acc Droite;cuir;CAT 60;5106;73;113;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 30;3091;73;82;97;SELVA
+natuzzi;Chauffeuse Et Demi;cuir;CAT 60;3816;73;82;97;SELVA
+natuzzi;Banc;cuir;CAT 30;1606;45;42;92;SELVA
+natuzzi;Banc;cuir;CAT 60;1907;45;42;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 30;2303;45;92;92;SELVA
+natuzzi;pouf carre' grand;cuir;CAT 60;2812;45;92;92;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 30;4625;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE LEFT TABLE TOP;cuir;CAT 60;5555;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 30;4625;73;113;145;SELVA
+natuzzi;ARMLESS CHAISE RIGHT TABLE TOP;cuir;CAT 60;5555;73;113;145;SELVA
+natuzzi;Canape 2Pl Fixe;cuir;CAT 30;5503;72;200;112;Etoile
+natuzzi;Canape 2Pl Fixe;cuir;CAT 60;7490;72;200;112;Etoile
+natuzzi;Canape 3Pl Fixe;cuir;CAT 30;5940;72;230;112;Etoile
+natuzzi;Canape 3Pl Fixe;cuir;CAT 60;8091;72;230;112;Etoile
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 30;4625;72;173;112;Etoile
+natuzzi;Batard 2Pl Acc Gauche;cuir;CAT 60;6296;72;173;112;Etoile
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 30;4625;72;173;112;Etoile
+natuzzi;Batard 2Pl Acc Droite;cuir;CAT 60;6296;72;173;112;Etoile
+natuzzi;Batard 3Pl Acc Gauche;cuir;CAT 30;5047;72;203;112;Etoile
+natuzzi;Batard 3Pl Acc Gauche;cuir;CAT 60;6873;72;203;112;Etoile
+natuzzi;Batard 3Pl Acc Droite;cuir;CAT 30;5047;72;203;112;Etoile
+natuzzi;Batard 3Pl Acc Droite;cuir;CAT 60;6873;72;203;112;Etoile
+natuzzi;Petit Fauteuil;cuir;CAT 30;3478;72;104;112;Etoile
+natuzzi;Petit Fauteuil;cuir;CAT 60;4734;72;104;112;Etoile
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 30;3980;72;118;170;Etoile
+natuzzi;Chaise-Longue Acc Gauche;cuir;CAT 60;5413;72;118;170;Etoile
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 30;3980;72;118;170;Etoile
+natuzzi;Chaise-Longue Acc Droite;cuir;CAT 60;5413;72;118;170;Etoile
+natuzzi;Batard 1Pl Acc Gauche;cuir;CAT 30;3230;79;108;103;Dorian
+natuzzi;Batard 1Pl Acc Gauche;cuir;CAT 60;4383;79;108;103;Dorian
+natuzzi;Chauffeuse;cuir;CAT 30;2362;79;77;103;Dorian
+natuzzi;Chauffeuse;cuir;CAT 60;3156;79;77;103;Dorian
+natuzzi;Batard 1Pl Acc Droite;cuir;CAT 30;3230;79;108;103;Dorian
+natuzzi;Batard 1Pl Acc Droite;cuir;CAT 60;4383;79;108;103;Dorian
+natuzzi;Angle Gauche;cuir;CAT 30;3450;79;125;103;Dorian
+natuzzi;Angle Gauche;cuir;CAT 60;4647;79;125;103;Dorian
+nicoletti home;C3;cuir;NB 10;2890;85;230;105;Bamboo
+nicoletti home; C3;tissu;NC;1920;92;215;110;Monnalisa
+nicoletti home; C2;tissu;NC;1620;92;185;110;Monnalisa
+nicoletti home; C2,5;tissu;NC;1720;92;205;110;Monnalisa

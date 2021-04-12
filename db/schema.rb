@@ -12,15 +12,6 @@
 
 ActiveRecord::Schema.define(version: 2021_03_17_135014) do
 
-  create_table "customers", force: :cascade do |t|
-    t.string "name"
-    t.string "email"
-    t.string "phone_number"
-    t.string "address"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-  end
-
   create_table "devis", force: :cascade do |t|
     t.string "decorateur"
     t.string "nom"
@@ -33,31 +24,6 @@ ActiveRecord::Schema.define(version: 2021_03_17_135014) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["user_id"], name: "index_devis_on_user_id"
-  end
-
-  create_table "invoices", force: :cascade do |t|
-    t.string "decorateur"
-    t.integer "number"
-    t.integer "customer_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["customer_id"], name: "index_invoices_on_customer_id"
-  end
-
-  create_table "products", force: :cascade do |t|
-    t.string "fabricant"
-    t.string "name"
-    t.string "element"
-    t.string "revetement"
-    t.string "category"
-    t.integer "price"
-    t.integer "height"
-    t.integer "width"
-    t.integer "deep"
-    t.integer "invoice_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["invoice_id"], name: "index_products_on_invoice_id"
   end
 
   create_table "produits", force: :cascade do |t|
@@ -89,7 +55,5 @@ ActiveRecord::Schema.define(version: 2021_03_17_135014) do
   end
 
   add_foreign_key "devis", "users"
-  add_foreign_key "invoices", "customers"
-  add_foreign_key "products", "invoices"
   add_foreign_key "produits", "devis"
 end

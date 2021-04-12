@@ -15,6 +15,12 @@ class ProduitsController < ApplicationController
   # GET devis/1/produits/new
   def new
     @produit = @devi.produits.build
+    @produits = Produit.all
+    all_fabricants = []
+    @produits.each do |p|
+      all_fabricants << p.fabricant.capitalize
+    end
+    @fabricants = all_fabricants.uniq
   end
 
   # GET devis/1/produits/1/edit

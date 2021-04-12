@@ -1,21 +1,73 @@
-<h2>Sélectionnez un produit existant ou créez en un :</h2>
+<h4>Merci de sélectionner le fabricant : </h4>
 
 
-<% fabricants = ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
+
+
+
+<% @fabricants.count %>
+<% total_fabricant = 0 %>
+ <form>
+  <p><strong>Fabricant :</strong></p>
+  <% while total_fabricant < @fabricants.count %>
+    <input type="radio" id="fabricant" name="fabricant" value="<%= @fabricants %>" />
+    <label for="fabricant"> <%= @fabricants[total_fabricant]%></label>
+    <% total_fabricant = total_fabricant += 1 %>
+  <% end %>
+  <hr>
+  <p><strong>Revetement :</strong></p>
+    <input type="radio" id="cuir" name="cuir" value="cuir" />
+    <label for="revetement">Cuir </label>
+    <input type="radio" id="tissu" name="tissu" value="tissu" />
+    <label for="revetement">Tissu </label>
+    <input type="submit" value="Suivant">
+
+
+    <% produits = Produit.all.where(fabricant: "<%= #{fabricant} %>") %>
+    <% produit = [] %>
+    <% produits.each do |p| %>
+      <% produit << p.name.capitalize %>
+    <% end %>
+    <% all_produits = produit.uniq %>
+
+    <% all_produits.count %>
+    <% total_produit = 0 %>
+
+
+  <p><strong>Nom :</strong></p>
+    <% while total_produit < all_produits.count %>
+      <input type="radio" id="produit" name="produit" value="<%= produits %>" />
+      <label for="produit"> <%= all_produits[total_produit]%></label>
+      <% total_produit = total_produit += 1 %>
+    <% end %>
+  </form>
+
+
+
+<p>----------------------------------</p>
+
+<p>Quel produit recherchez-vous ?</p>
+
+
+<% Produit.create () %>
+
 
 <%= simple_form_for [ @produit.devi, @produit] do |f| %>
-
-  <%= f.input :fabricant, label: 'Fabricant', collection: ['Natuzzi', 'Nicoletti Home', 'Devina Nais', 'Corium'] %>
-  <%= f.input :name, label: 'Nom' %>
-  <%= f.input :element, label:'Element' %>
-  <%= f.input :category, label:'Categorie' %>
+  <%= f.input :fabricant, collection: @fabricants %>
+  <%= f.collection_select(:name, Produit.all.where(fabricant: 'natuzzi'), :id, :name, :prompt => 'Veuillez choisir') %>
+  <%= f.input :name, :collection => @produits, label_tag => :name, :value_method => :name, :label => 'Nom', :include_blank => false %>
+  <%= f.collection_select(:element, Produit.where(fabricant: 'natuzzi', name: 'Dorian'), :id, :element, :prompt => 'Veuillez choisir') %>
   <%= f.input :revetement, label:'Revetement' %>
+  <%= f.input :category, label:'Categorie' %>
   <%= f.input :price, label:'Prix' %>
   <%= f.input :width, label:'Largeur' %>
   <%= f.input :height, label:'Hauteur' %>
   <%= f.input :deep, label:'Profondeur' %>
   <%= f.submit 'Valider' %>
-
-
 <% end %>
 
+
+<%= simple_form_for [ @produit.devi, @produit] do |f| %>
+  <% f.input :fabricant, input_html: { class: 'fabricant' } %>
+  <% f.input :name, input_html: { class: 'name' } %>
+  <% f.input :revetement, input_html: { class: 'revetement' }  %>
+<% end %>

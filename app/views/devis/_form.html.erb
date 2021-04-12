@@ -10,43 +10,16 @@
       </ul>
     </div>
   <% end %>
-
-  <div class="field">
-    <%= form.label :decorateur %>
-    <%= form.text_field :decorateur %>
-  </div>
-
-  <div class="field">
-    <%= form.label :nom %>
-    <%= form.text_field :nom %>
-  </div>
-
-  <div class="field">
-    <%= form.label :prenom %>
-    <%= form.text_field :prenom %>
-  </div>
-
-  <div class="field">
-    <%= form.label :email %>
-    <%= form.text_field :email %>
-  </div>
-
-  <div class="field">
-    <%= form.label :telephone %>
-    <%= form.text_field :telephone %>
-  </div>
-
-  <div class="field">
-    <%= form.label :adresse %>
-    <%= form.text_field :adresse %>
-  </div>
-
-  <div class="field">
-    <%= form.label :numero %>
-    <%= form.text_field :numero %>
-  </div>
-
-  <div class="actions">
-    <%= form.submit "Valider" %>
-  </div>
+  <%= simple_form_for @devi do |f| %>
+    <%= f.input :decorateur, collection: ['Élise', 'David', 'Anthony', 'Autre'] %>
+    <%= f.input :nom %>
+    <%= f.input :prenom %>
+    <%= f.input :email %>
+    <%= f.input :telephone %>
+    <%= f.input :adresse %>
+    <%= f.submit 'Valider' %>
+  <% end %>
 <% end %>
+
+
+
