@@ -1,13 +1,8 @@
 <h4>Merci de sélectionner le fabricant : </h4>
-<% produits = Produit.all.where(fabricant: 'natuzzi') %>
-<% produit = [] %>
-<% produits.each do |p| %>
-  <% produit << p.name.capitalize %>
-<% end %>
-<% all_produits = produit.uniq %>
 
-<% all_produits.count %>
-<% total_produit = 0 %>
+
+
+
 
 <% @fabricants.count %>
 <% total_fabricant = 0 %>
@@ -25,6 +20,19 @@
     <input type="radio" id="tissu" name="tissu" value="tissu" />
     <label for="revetement">Tissu </label>
     <input type="submit" value="Suivant">
+
+
+    <% produits = Produit.all.where(fabricant: "<%= #{fabricant} %>") %>
+    <% produit = [] %>
+    <% produits.each do |p| %>
+      <% produit << p.name.capitalize %>
+    <% end %>
+    <% all_produits = produit.uniq %>
+
+    <% all_produits.count %>
+    <% total_produit = 0 %>
+
+
   <p><strong>Nom :</strong></p>
     <% while total_produit < all_produits.count %>
       <input type="radio" id="produit" name="produit" value="<%= produits %>" />
@@ -33,12 +41,11 @@
     <% end %>
   </form>
 
+
+
 <p>----------------------------------</p>
 
 <p>Quel produit recherchez-vous ?</p>
-
-
-
 
 
 <% Produit.create () %>

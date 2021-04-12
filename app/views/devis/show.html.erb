@@ -1,42 +1,21 @@
+
+
 <p id="notice"><%= notice %></p>
+<div class="coordonnees">
+  <div class="information-devis">
+    <strong><h4>DEVIS <%= @devi.numero %></h4></strong>
+    <strong><p>VALIDITÉ DE L'OFFRE :</p></strong> <%= Date %>
+    <strong><p>Décorateur : </strong> <%= @devi.decorateur %> </p>
+    <p>À Orvault, le <%= Date.today.strftime("%d/%m/%Y") %></p>
+  </div>
+  <div class="clients">
+     <p><strong><%= @devi.prenom %> <%= @devi.nom %></strong></p>
+     <p> <%= @devi.adresse %></p>
+     <p><%= @devi.telephone %></p>
+     <p><%= @devi.email %></p>
+  </div>
+</div>
 
-<h2>Infos clients :</h2>
-
-<p>
-  <strong>Numero:</strong>
-  <%= @devi.numero %>
-</p>
-
-
-<p>
-  <strong>Decorateur:</strong>
-  <%= @devi.decorateur %>
-</p>
-
-<p>
-  <strong>Nom:</strong>
-  <%= @devi.nom %>
-</p>
-
-<p>
-  <strong>Prenom:</strong>
-  <%= @devi.prenom %>
-</p>
-
-<p>
-  <strong>Email:</strong>
-  <%= @devi.email %>
-</p>
-
-<p>
-  <strong>Telephone:</strong>
-  <%= @devi.telephone %>
-</p>
-
-<p>
-  <strong>Adresse:</strong>
-  <%= @devi.adresse %>
-</p>
 
 <%= link_to 'Modifier', edit_devi_path(@devi) %> |
 <%= link_to 'Retour', devis_path %>
